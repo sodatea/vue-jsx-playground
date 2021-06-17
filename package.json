@@ -15,7 +15,7 @@
     "babel-plugin-transform-vue-jsx": "^3.7.0",
     "cm-highlight": "^0.1.1",
     "codemirror": "^5.48.4",
-    "core-js": "^3.1.2",
+    "core-js": "3.14.0",
     "highlight": "^0.2.4",
     "normalize.css": "^8.0.1",
     "nprogress": "^0.2.0",
